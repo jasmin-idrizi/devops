@@ -89,3 +89,8 @@ Feel free to contribute to this project by opening issues or submitting pull req
 - Special thanks to the Flask community for providing a fantastic web framework.
 
 Enjoy experimenting with the Flask sample app! If you have any questions or need further assistance, please don't hesitate to reach out.
+
+## Installation
+1. Clone the repo
+2. pip install -r requirements.txt
+3. python app.py
